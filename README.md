@@ -13,7 +13,7 @@ ALGORITHM_LIB
 ｜  &ensp;&ensp;&ensp;｜—— algorithm_name  
 ｜   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;｜—— C code  
 ｜   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;｜—— python code  
-｜——Catalog.md
+｜——README.md
 
 ## 具体算法汇总
  - 重复平方计算幂算法
